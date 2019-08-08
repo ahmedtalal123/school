@@ -1,0 +1,45 @@
+h1,h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background: rgba(213, 230, 103, 0.3);
+    font-size: 60px;
+    text-align: center;
+}
+
+button{
+    display: block;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+
+#p1{
+    text-align: center;
+    color:black; 
+}
+
+header{
+    background-image: url(https://www.gannett-cdn.com/-mm-/93c777c6c2debc033a988a4899524bf75a61d9da/c=0-124-2118-1321/local/-/media/2017/03/29/DetroitFreePress/DetroitFreePress/636263933377477747-GettyImages-512291589.jpg?width=3200&height=1680&fit=crop);
+    background-repeat: no-repeat;
+    padding: 500px;
+}
+
+h3{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    background-color: blue;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(213, 230, 103, 0.3);
+}
+
+#div5{
+    text-align: center;
+    background-color: rgba(213, 230, 103, 0.3);
+}
